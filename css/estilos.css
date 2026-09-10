@@ -1,0 +1,11 @@
+header{
+    background-image: url("../img/imagem.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.imagem-evento{
+    min-height: 220px;
+    background-color: #6c757d;
+    border-radius: 6px;
+}
